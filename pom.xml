@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
     <groupId>com.github.DDLoveWorld</groupId>
-    <artifactId>common-query-mybatis</artifactId>
+    <artifactId>common-query-mybatisplus</artifactId>
     <packaging>jar</packaging>
     <version>2.0.0</version>
     <description>Common query demo project for Spring Boot</description>
@@ -206,8 +206,8 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/DDLoveWorld/common-query-mybatis</url>
-        <connection>https://github.com/DDLoveWorld/common-query-mybatis.git</connection>
+        <url>https://github.com/DDLoveWorld/common-query-mybatisplus</url>
+        <connection>https://github.com/DDLoveWorld/common-query-mybatisplus.git</connection>
         <developerConnection>https://github.com/DDLoveWorld</developerConnection>
     </scm>
 
