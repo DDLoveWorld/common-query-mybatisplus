@@ -59,8 +59,8 @@ SELECT ID,NAME FROM T_USER WHERE ID = 1;
 ```yaml
         <dependency>
             <groupId>com.github.DDLoveWorld</groupId>
-            <artifactId>common-query</artifactId>
-            <version>1.2.1</version>
+            <artifactId>common-query-mybatisplus</artifactId>
+            <version>1.0.0</version>
         </dependency>
 ```
 
@@ -279,8 +279,8 @@ public @interface FormatSwitch {
 <!-- https://mvnrepository.com/artifact/com.github.DDLoveWorld/common-query -->
 <dependency>
     <groupId>com.github.DDLoveWorld</groupId>
-    <artifactId>common-query</artifactId>
-    <version>1.3.1</version>
+    <artifactId>common-query-mybatisplus</artifactId>
+    <version>1.0.0</version>
 </dependency>
 
 ```
@@ -293,7 +293,7 @@ public @interface FormatSwitch {
 
     <dependency>
         <groupId>com.github.DDLoveWorld</groupId>
-        <artifactId>common-query</artifactId>
-        <version>1.3.7</version>
+        <artifactId>common-query-mybatisplus</artifactId>
+        <version>1.0.0</version>
     </dependency>
 
