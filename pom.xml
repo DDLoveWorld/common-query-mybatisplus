@@ -12,7 +12,7 @@
     <groupId>com.github.DDLoveWorld</groupId>
     <artifactId>common-query-mybatisplus</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>Common query by mybatisPlus project for Spring Boot</description>
 
     <properties>
