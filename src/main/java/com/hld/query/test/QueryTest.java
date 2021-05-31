@@ -15,7 +15,7 @@ import java.util.List;
 public class QueryTest {
 
     public static void main(String[] args) {
-        test();
+        test2();
     }
 
     private static void test2() {
@@ -37,7 +37,7 @@ public class QueryTest {
 
     private static void test() {
         QueryOptions options = new QueryOptions();
-        options.setFirstSql("asdasfdasf");
+        options.setFirstSql("p");
         System.out.println(options.toString());
         test1(options);
     }
